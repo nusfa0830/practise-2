@@ -1,0 +1,87 @@
+.main{
+    margin-right: 10px;
+    background-image: url(bck-img/white.jfif);
+}
+.font{
+    font-family: 'Festive', cursive;
+    font-size: 50px;
+    text-align: center;
+    color:orange;
+    background-image: url(bck-img/blck\ 1.jfif);
+    height: 100px;
+    width: 1000px;
+    background-size: cover;
+    background-position: center;
+}
+.centre{ 
+    
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 30px;
+    
+   
+}
+.s-font{
+    
+    color: rgb(235, 163, 69);
+}
+ul{
+    margin-top: 10px;
+}
+
+li{
+    display: inline-block;
+    padding-right:  20px;
+    padding-bottom: 30px;
+}
+.n-box{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    border: 1px solid;
+    border-radius: 2px;
+    
+}
+.y-m-n{
+ font-size: 30px;
+ text-align: center ;
+ padding-bottom: 50px;
+}
+.lol{
+    
+        width: 50%;
+        margin-left: 5%;
+        margin-right: 3%;
+        border-radius: 10px;
+        padding-left: 5%;
+         box-shadow: 10px 5px 40px gray ;
+         
+   
+}
+.cntr{
+    font-size: 50px;
+    text-align: center;
+    padding-left: 30px;
+    color: chocolate;
+    padding-bottom: 5px;
+}
+.fst{
+    padding-left: 10px;
+    text-align:start;
+    margin: 2px;
+     font-size: 20spx;
+}
+.display{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto ;
+        height: 200px;
+        width: 300px;
+}
+
+
+
+
+
+    
